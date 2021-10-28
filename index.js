@@ -1,1 +1,3 @@
-let hola = "hola"
+let hola = "hola";
+
+let chau = "chau";
