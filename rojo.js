@@ -1,1 +1,1 @@
-let color = rojo;
+let color = "rojo";
